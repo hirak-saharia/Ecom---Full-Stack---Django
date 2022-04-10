@@ -21,5 +21,7 @@ Change the project directory
     
     cd Ecom 
 
-gatsby new lcoproject
+gatsby new lcoproject enter
+
+Now open VSCODE and open lcoproject folder 
 
