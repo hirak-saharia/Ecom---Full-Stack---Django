@@ -25,3 +25,18 @@ gatsby new lcoproject enter
 
 Now open VSCODE and open lcoproject folder 
 
+Open gatsby-coding.js file
+
+Open vs code terminal type control + ~ 
+
+type : gatsby develop #to deploy the project on local host to start on a browser 
+
+Now go to any browser and search localhost:8000 #will able to see the Gatsby Default server running 
+
+Now, since Gatsby is frmework and we dont touch public folder 
+
+Go to gatsby-config.js  >  rename title: and description: , also author @hiraksaharia
+
+
+Delete few auto generated file like header.js and image.js from src componets 
+also from pages > page-2.js
