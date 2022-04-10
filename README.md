@@ -12,7 +12,10 @@ Google Gatsby.org/Docs and start with Gatsby CLI
 
 Install the Gatsby CLI 
   
-      npm install --g gatsby--cly in Windows Note: Open terminal in Windows as Administrator to not get any error since --g is a global version
+      sudo npm install -g gatsby-cli
+      check version : gatsby -v
+      
+  in Windows Note: Open terminal in Windows as Administrator to not get any error since --g is a global version
       
 Change the project directory 
     
